@@ -42,27 +42,22 @@ h1 {
 /* Set widths for the filter inputs to match column headings */
 .filters input:nth-child(1) {
   width: 20%;
-  /* Matches CVE-ID column */
 }
 
 .filters input:nth-child(2) {
   width: 15%;
-  /* Matches Severity column */
 }
 
 .filters input:nth-child(3) {
   width: 15%;
-  /* Matches CVSS column */
 }
 
 .filters input:nth-child(4) {
   width: 25%;
-  /* Matches Affected Packages column */
 }
 
 .filters input:nth-child(5) {
   width: 15%;
-  /* Matches CWE-ID column */
 }
 
 /* Table */
