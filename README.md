@@ -1,6 +1,6 @@
 # CVE Database Application
 
-A simple web application for managing Common Vulnerabilities and Exposures (CVE) records. Users can view, add, edit, and delete CVE records. The application also features filtering and sorting capabilities for easy data management.
+A simple web application for managing Common Vulnerabilities and Exposures (CVE) records. Users can view, add, edit, and delete (CRUD operations) CVE records. The application also features filtering and sorting capabilities for easy data management.
 
 ## Features
 
